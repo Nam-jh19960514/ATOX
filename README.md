@@ -34,3 +34,10 @@ python3 -c "import msise00; msise00.build()"
 ```bash
 python -m ipykernel install --user --name ATOX --display-name "Python 3 (ATOX)"
 ```
+
+## Links
+
+* F10.7 : ftp://ftp.geolab.nrcan.gc.ca/data/solar_flux/daily_flux_values/
+* Ap : http://wdc.kugi.kyoto-u.ac.jp/kp/index.html
+* NRLMSISE-00 Atmosphere Model : https://github.com/space-physics/msise00
+* ATOX Fluence : https://www.spenvis.oma.be/help/background/atmosphere/erosion.html
