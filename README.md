@@ -41,3 +41,4 @@ python -m ipykernel install --user --name ATOX --display-name "Python 3 (ATOX)"
 * Ap : http://wdc.kugi.kyoto-u.ac.jp/kp/index.html
 * NRLMSISE-00 Atmosphere Model : https://github.com/space-physics/msise00
 * ATOX Fluence : https://www.spenvis.oma.be/help/background/atmosphere/erosion.html
+* Sunspots : http://www.sidc.be/silso/datafiles
