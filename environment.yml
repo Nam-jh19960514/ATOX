@@ -1,0 +1,15 @@
+name: ATOX
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - cmake
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - tqdm
+  - pip:
+    - ninja
+    - meson
