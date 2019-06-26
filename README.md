@@ -3,7 +3,7 @@ NIMS 산업수학 문제해결 워크숍 2019 세번째 문제
 
 ## Install `gfortran`
 
-### MAC OS
+### MacOS
 ```bash
 xcode-select --install
 brew install gcc
@@ -14,7 +14,7 @@ brew install gcc
 apt install gfortran
 ```
 
-## Create environment
+## Create Conda Environment
 ```bash
 git clone https://github.com/wizardbc/ATOX
 cd ATOX
@@ -30,7 +30,7 @@ python3 -m pip install -e .
 python3 -c "import msise00; msise00.build()"
 ```
 
-## Add jupyter kernel
+## Add Jupyter Notebook Kernel
 ```bash
 python -m ipykernel install --user --name ATOX --display-name "Python 3 (ATOX)"
 ```
